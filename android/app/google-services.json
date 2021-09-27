@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "236253973910",
+    "project_id": "signdemoproject",
+    "storage_bucket": "signdemoproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236253973910:android:8c309db621386446ee21b7",
+        "android_client_info": {
+          "package_name": "com.googlesiginproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236253973910-ji7i06i27amdlg6apbiqlu3uglprup8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.googlesiginproject",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "236253973910-rvctbr2k01n7ildfsd28cefa0c1n86hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRO4jC3KMMYZDBJmFt8uIuvcCCCkAnvns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236253973910-rvctbr2k01n7ildfsd28cefa0c1n86hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
